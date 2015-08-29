@@ -2,6 +2,7 @@
 #define MSERVO_H
 
 #include <inttypes.h>
+#include <OneWire.h>
 
 class Multiservo
 {
