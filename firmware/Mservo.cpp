@@ -1,6 +1,6 @@
 #include "Mservo.h"
 
-#include <Wire.h>
+#include "OneWire/OneWire.h"
 
 
 const unsigned int  Multiservo::AddressDefault   = 0x47;
