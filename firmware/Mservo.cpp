@@ -1,4 +1,4 @@
-#include "Multiservo.h"
+#include "Mservo.h"
 
 #include <Wire.h>
 
