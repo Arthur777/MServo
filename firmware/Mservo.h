@@ -1,5 +1,5 @@
-#ifndef MULTISERVO_H
-#define MULTISERVO_H
+#ifndef MSERVO_H
+#define MSERVO_H
 
 #include <inttypes.h>
 
